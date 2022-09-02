@@ -1,0 +1,390 @@
+body
+	{width:534px;
+	height:400px;}
+.TB
+	{mso-special-format:nobullet•;}
+.T
+	{text-align:left;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:#003366;
+	mso-color-index:3;
+	font-size:209%;}
+.BB
+	{mso-special-format:bulletn;
+	color:#9A0000;
+	mso-color-index:7;
+	font-family:Wingdings;
+	font-size:75%;}
+.B
+	{text-align:left;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:black;
+	mso-color-index:1;
+	font-size:152%;}
+.B1B
+	{mso-special-format:bulletn;
+	color:#9A0000;
+	mso-color-index:7;
+	font-family:Wingdings;
+	font-size:70%;}
+.B1
+	{text-align:left;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:black;
+	mso-color-index:1;
+	font-size:133%;}
+.B2B
+	{mso-special-format:bullet•;
+	color:#003366;
+	mso-color-index:3;}
+.B2
+	{text-align:left;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:black;
+	mso-color-index:1;
+	font-size:114%;}
+.B3B
+	{mso-special-format:bullet•;
+	color:#336699;
+	mso-color-index:6;}
+.B3
+	{text-align:left;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:black;
+	mso-color-index:1;
+	font-size:95%;}
+.B4B
+	{mso-special-format:bullet•;
+	color:black;
+	mso-color-index:1;
+	font-size:85%;}
+.B4
+	{text-align:left;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:black;
+	mso-color-index:1;
+	font-size:95%;}
+.NB
+	{mso-special-format:nobullet•;}
+.N
+	{text-align:left;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	color:black;
+	mso-color-index:1;
+	font-size:57%;}
+.N1B
+	{mso-special-format:nobullet•;}
+.N1
+	{text-align:left;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	color:black;
+	mso-color-index:1;
+	font-size:57%;}
+.N2B
+	{mso-special-format:nobullet•;}
+.N2
+	{text-align:left;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	color:black;
+	mso-color-index:1;
+	font-size:57%;}
+.N3B
+	{mso-special-format:nobullet•;}
+.N3
+	{text-align:left;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	color:black;
+	mso-color-index:1;
+	font-size:57%;}
+.N4N
+	{mso-special-format:nobullet•;}
+.N4
+	{text-align:left;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	color:black;
+	mso-color-index:1;
+	font-size:57%;}
+.OB
+	{mso-special-format:nobullet•;}
+.O
+	{text-align:left;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:black;
+	mso-color-index:1;
+	font-size:114%;}
+.O1B
+	{mso-special-format:nobullet•;}
+.O1
+	{text-align:left;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:black;
+	mso-color-index:1;
+	font-size:114%;}
+.O2
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	font-size:114%;}
+.O3
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	font-size:114%;}
+.O4
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	font-size:114%;}
+.CBB
+	{mso-special-format:nobulletn;
+	color:#9A0000;
+	mso-color-index:7;
+	font-family:Wingdings;
+	font-size:75%;}
+.CB
+	{text-align:center;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:black;
+	mso-color-index:1;
+	font-size:152%;}
+.CB1B
+	{mso-special-format:nobulletn;
+	color:#9A0000;
+	mso-color-index:7;
+	font-family:Wingdings;
+	font-size:70%;}
+.CB1
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.CB2B
+	{mso-special-format:nobullet•;
+	color:#003366;
+	mso-color-index:3;}
+.CB2
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.CB3B
+	{mso-special-format:nobullet•;
+	color:#336699;
+	mso-color-index:6;}
+.CB3
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.CB4B
+	{mso-special-format:nobullet•;
+	color:black;
+	mso-color-index:1;
+	font-size:85%;}
+.CB4
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.CTB
+	{mso-special-format:nobullet•;}
+.CT
+	{text-align:left;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:#003366;
+	mso-color-index:3;
+	font-size:209%;}
+.HBB
+	{mso-special-format:bulletn;
+	color:#9A0000;
+	mso-color-index:7;
+	font-family:Wingdings;
+	font-size:75%;}
+.HB
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.HB1B
+	{mso-special-format:bulletn;
+	color:#9A0000;
+	mso-color-index:7;
+	font-family:Wingdings;
+	font-size:70%;}
+.HB1
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.HB2B
+	{mso-special-format:bullet•;
+	color:#003366;
+	mso-color-index:3;}
+.HB2
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.HB3B
+	{mso-special-format:bullet•;
+	color:#336699;
+	mso-color-index:6;}
+.HB3
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.HB4B
+	{mso-special-format:bullet•;
+	color:black;
+	mso-color-index:1;
+	font-size:85%;}
+.HB4
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.QBB
+	{mso-special-format:bulletn;
+	color:#9A0000;
+	mso-color-index:7;
+	font-family:Wingdings;
+	font-size:75%;}
+.QB
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.QB1B
+	{mso-special-format:bulletn;
+	color:#9A0000;
+	mso-color-index:7;
+	font-family:Wingdings;
+	font-size:70%;}
+.QB1
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.QB2B
+	{mso-special-format:bullet•;
+	color:#003366;
+	mso-color-index:3;}
+.QB2
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.QB3B
+	{mso-special-format:bullet•;
+	color:#336699;
+	mso-color-index:6;}
+.QB3
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.QB4B
+	{mso-special-format:bullet•;
+	color:black;
+	mso-color-index:1;
+	font-size:85%;}
+.QB4
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.TblB
+	{mso-special-format:nobulletn;
+	color:#9A0000;
+	mso-color-index:7;
+	font-family:Wingdings;
+	font-size:75%;}
+.Tbl
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.Tbl1B
+	{mso-special-format:nobulletn;
+	color:#9A0000;
+	mso-color-index:7;
+	font-family:Wingdings;
+	font-size:70%;}
+.Tbl1
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.Tbl2B
+	{mso-special-format:nobullet•;
+	color:#003366;
+	mso-color-index:3;}
+.Tbl2
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.Tbl3B
+	{mso-special-format:nobullet•;
+	color:#336699;
+	mso-color-index:6;}
+.Tbl3
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.Tbl4B
+	{mso-special-format:nobullet•;
+	color:black;
+	mso-color-index:1;
+	font-size:85%;}
+.Tbl4
+	{font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+.defaultB
+	{mso-special-format:nobullet•;}
+.default
+	{text-align:left;
+	font-family:Verdana;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+	text-shadow:none;
+	text-effect:none;
+	mso-fareast-hint:no;
+	layout-flow:horizontal;
+	color:black;
+	mso-color-index:1;
+	font-size:114%;
+	mso-text-raise:0%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:0;
+	mso-text-indent-alt:0;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;
+	direction:ltr;
+	mso-word-wrap:1;
+	mso-vertical-align-special:baseline;
+	mso-ansi-language:EN-US;}
+a:link
+	{color:#336699 !important;}
+a:active
+	{color:#DDDDDD !important;}
+a:visited
+	{color:#9A0000 !important;}

@@ -1,0 +1,1054 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:b="urn:schemas-microsoft-com:office:publisher"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Publisher.Document>
+<meta name=Generator content="Microsoft Publisher 10">
+<link rel=File-List href="project_files/filelist.xml">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+b\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if pub]><xml>
+ <b:Publication type="OplPub" oty="68" oh="256">
+  <b:OhPrintBlock priv="30e">285</b:OhPrintBlock>
+  <b:FWizardPub priv="e00">True</b:FWizardPub>
+  <b:DptlPageDimensions type="OplPt" priv="1211">
+   <b:Xl priv="104">7772400</b:Xl>
+   <b:Yl priv="204">10058400</b:Yl>
+  </b:DptlPageDimensions>
+  <b:OhMorphingContext priv="140e">290</b:OhMorphingContext>
+  <b:OhGallery priv="180e">259</b:OhGallery>
+  <b:OhFancyBorders priv="190e">261</b:OhFancyBorders>
+  <b:OhCaptions priv="1a0e">257</b:OhCaptions>
+  <b:OhQuillDoc priv="200e">280</b:OhQuillDoc>
+  <b:OhMailMergeData priv="210e">262</b:OhMailMergeData>
+  <b:OhColorScheme priv="220e">283</b:OhColorScheme>
+  <b:DwNextUniqueOid priv="2304">1</b:DwNextUniqueOid>
+  <b:IdentGUID priv="2a07">0H/$.YG:NU!&amp;Q40#`\$A;)`</b:IdentGUID>
+  <b:DpgSpecial priv="2c03">5</b:DpgSpecial>
+  <b:FWorkpaneVisible priv="3900">False</b:FWorkpaneVisible>
+ </b:Publication>
+ <b:PrinterInfo type="OplPrb" oty="75" oh="285">
+  <b:CDnb priv="104">2</b:CDnb>
+  <b:Rgdnb type="OplDnb" priv="212">
+   <b:OplDnb type="OplDnb" priv="11">
+    <b:Ssz priv="103">1</b:Ssz>
+    <b:Dptl type="OplPt" priv="213">
+     <b:Xl>7772400</b:Xl>
+     <b:Yl>10058400</b:Yl>
+    </b:Dptl>
+    <b:Sso priv="303">271</b:Sso>
+    <b:FSszOK priv="600">True</b:FSszOK>
+    <b:SzDevice priv="818">HP Raider</b:SzDevice>
+    <b:SzDriver priv="918">winspool</b:SzDriver>
+    <b:SzOutput priv="a18">\\RHS600\HP Raider</b:SzOutput>
+    <b:Version priv="b03">1025</b:Version>
+    <b:Devmode priv="c10" cb="212">M2%`@4F%I9&amp;5R````````````````````````````````!`$$E`!```-W``8!M``$`0`9Y`P```0`/`5@&quot;`0`!`%@&quot;!```````````````````````````````M````````````````````````````````````````````````````````&quot;0$`M``(```````````````$`0`!-4U5$-P-(4&quot;!,87-E&lt;DIE=&quot;`U3@``````````@`````````````.0!````````)0$`````!`!D``H````</b:Devmode>
+   </b:OplDnb>
+   <b:OplDnb type="OplDnb" priv="111">
+    <b:Ssz>1</b:Ssz>
+    <b:Dptl type="OplPt">
+     <b:Xl>7772400</b:Xl>
+     <b:Yl>10058400</b:Yl>
+    </b:Dptl>
+    <b:Sso>7</b:Sso>
+    <b:FSszOK>True</b:FSszOK>
+    <b:Devmode cb="2">&quot;```</b:Devmode>
+   </b:OplDnb>
+  </b:Rgdnb>
+  <b:OhColorSepBlock priv="30e">286</b:OhColorSepBlock>
+  <b:FKOBlackFills priv="a00">True</b:FKOBlackFills>
+  <b:DzlOverlap priv="1004">228600</b:DzlOverlap>
+  <b:FCropMarks priv="1700">True</b:FCropMarks>
+  <b:FAllowBleeds priv="1800">True</b:FAllowBleeds>
+  <b:FNoBlankLines priv="1a00">True</b:FNoBlankLines>
+  <b:FBleedMarks priv="1b00">True</b:FBleedMarks>
+  <b:FEnvUseDefaults priv="1c00">True</b:FEnvUseDefaults>
+  <b:FEnvFeedLandscape priv="1d00">True</b:FEnvFeedLandscape>
+  <b:FSubstituteFont priv="1e00">True</b:FSubstituteFont>
+  <b:DpiX priv="2203">0</b:DpiX>
+  <b:DpiY priv="2303">0</b:DpiY>
+ </b:PrinterInfo>
+ <b:ColorSeperationInfo type="OplCsb" oty="79" oh="286">
+  <b:Plates type="OplCsp" priv="214">
+   <b:OplCsp type="OplCsp" priv="11">
+    <b:EcpPlate type="OplEcp" priv="213">
+     <b:Color priv="104">-1</b:Color>
+    </b:EcpPlate>
+   </b:OplCsp>
+  </b:Plates>
+  <b:DzlOverprintMost priv="304">304800</b:DzlOverprintMost>
+  <b:CprOverprintMin priv="404">243</b:CprOverprintMin>
+  <b:FKeepawayTrap priv="700">True</b:FKeepawayTrap>
+  <b:CprTrapMin1 priv="904">128</b:CprTrapMin1>
+  <b:CprTrapMin2 priv="a04">77</b:CprTrapMin2>
+  <b:CprKeepawayMin priv="b04">255</b:CprKeepawayMin>
+  <b:DzlTrap priv="c04">3175</b:DzlTrap>
+  <b:DzlIndTrap priv="d04">3175</b:DzlIndTrap>
+  <b:PctCenterline priv="e04">70</b:PctCenterline>
+  <b:FMarksRegistration priv="f00">True</b:FMarksRegistration>
+  <b:FMarksJob priv="1000">True</b:FMarksJob>
+  <b:FMarksDensity priv="1100">True</b:FMarksDensity>
+  <b:FMarksColor priv="1200">True</b:FMarksColor>
+  <b:FLineScreenDefault priv="1300">True</b:FLineScreenDefault>
+ </b:ColorSeperationInfo>
+ <b:MorphingContextData type="OplMocd" oty="88" oh="290">
+  <b:WidManager priv="104">179</b:WidManager>
+  <b:Ohplbot priv="30e">291</b:Ohplbot>
+  <b:OhoplControlling priv="40e">292</b:OhoplControlling>
+ </b:MorphingContextData>
+ <b:ObjectTracking type="OplPlbot" oty="90" oh="291">
+  <b:COt priv="104">2</b:COt>
+  <b:Rgot type="OplOt" priv="214">
+   <b:OplOt type="OplOt" priv="11">
+    <b:OhTrack priv="10d">266</b:OhTrack>
+    <b:Oid priv="d05">(`0`````````</b:Oid>
+    <b:OidExpectedParent priv="e05">(```````````</b:OidExpectedParent>
+    <b:OplLastFmt type="OplLastFmt" priv="1211">
+     <b:PdFormatting type="OplPageProps" priv="411">
+      <b:Margins priv="7">0X/,-`.#S#0#@\PT`X/,-``</b:Margins>
+     </b:PdFormatting>
+    </b:OplLastFmt>
+   </b:OplOt>
+   <b:OplOt type="OplOt" priv="111">
+    <b:OhTrack>256</b:OhTrack>
+    <b:Oid>(`0```/___S\</b:Oid>
+    <b:OidExpectedParent>(```````````</b:OidExpectedParent>
+    <b:OplLastFmt type="OplLastFmt">
+     <b:PubFormatting type="OplPubProps" priv="311">
+      <b:PageSize priv="310" cb="8">(\)AV`*!ZF0`</b:PageSize>
+      <b:TilingOverlap priv="d04">228600</b:TilingOverlap>
+     </b:PubFormatting>
+    </b:OplLastFmt>
+   </b:OplOt>
+  </b:Rgot>
+ </b:ObjectTracking>
+ <b:otyOplControlling type="OplControlling" oty="77" oh="292">
+  <b:CodeVersion priv="4">1</b:CodeVersion>
+  <b:PocScenario type="OplPocScenario" priv="111">
+   <b:CodeVersion priv="4">1</b:CodeVersion>
+   <b:Set priv="1404">32</b:Set>
+   <b:Style priv="1604">1</b:Style>
+   <b:PageOrientation priv="2604">1</b:PageOrientation>
+   <b:QuickPubsLayout priv="3a04">15</b:QuickPubsLayout>
+  </b:PocScenario>
+  <b:DesignId priv="904">1</b:DesignId>
+ </b:otyOplControlling>
+ <b:otyPlbfb type="OplPlbFb" oty="70" oh="261">
+  <b:IfbMax priv="104">2</b:IfbMax>
+  <b:Rgfb type="OplFb" priv="214">
+   <b:OplFb type="OplFb" priv="11">
+    <b:SzFBrdName priv="318">Weaving...Strips</b:SzFBrdName>
+    <b:DzlCorner priv="404">152400</b:DzlCorner>
+    <b:DxlHoriz priv="504">152400</b:DxlHoriz>
+    <b:DylVert priv="604">152400</b:DylVert>
+    <b:CMeta priv="704">8</b:CMeta>
+    <b:RgbMeta type="OplRgfbMeta" priv="812">
+     <b:Data priv="3">108</b:Data>
+     <b:Data priv="103">370</b:Data>
+     <b:Data priv="203">684</b:Data>
+     <b:Data priv="303">946</b:Data>
+     <b:Data priv="403">1260</b:Data>
+     <b:Data priv="503">1522</b:Data>
+     <b:Data priv="603">1836</b:Data>
+     <b:Data priv="703">2098</b:Data>
+    </b:RgbMeta>
+    <b:CFbmd priv="903">8</b:CFbmd>
+    <b:RgFbmd type="OplFbmd" priv="a14">
+     <b:OplFbmd type="OplFbmd" priv="11">
+      <b:RgbMeta priv="110" cb="262">M`0`)```#@P````8`#```````!0````P&quot;A`.$`P&lt;```#\`@``____````!```M`&quot;T!```(````^@(`````````````!````&quot;T!`0`(````^@(```````#___\`M!````&quot;T!`@`'````&amp;P2$`X0#``````@```#Z`@```````,#`P``$````+0$#M``&lt;```#\`@``P,#`````!````&quot;T!!``*````)`,#`(0#A`.$`[4&quot;L@*$`P0`M```M`0$`!P```/P&quot;```````````$````+0$%``P````D`P0`I0&quot;$`X0#I0&quot;$E`[,!LP&amp;$`P0```#P`00`!````/`!`@`$````\`$#``,```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="111">
+      <b:RgbMeta cb="314">M`0`)```#G0````8`$```````!0````P&quot;A`.'`P&lt;```#\`@``____````!```M`&quot;T!```(````^@(`````````````!````&quot;T!`0`(````^@(```````#___\`M!````&quot;T!`@`'````&amp;P2$`X0#``````@```#Z`@```````,#`P``$````+0$#M``&lt;```#\`@``P,#`````!````&quot;T!!``,````)`,$````=0,``*,&quot;AP`&lt;`O``MA0($````+0$!``&lt;```#\`@``````````!````&quot;T!!0`0````)`,&amp;`(0#H@'(M`6(#``&quot;G`0``M0#%`7@&quot;AP.O``0````M`0,`!````&quot;T!!``0````)`,&amp;`/L`LJ@%D`0P&quot;P@&amp;M`8`#&lt;0.``ZH&quot;P`'D``0```#P`04`!````/`!`@`#```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="211">
+      <b:RgbMeta cb="262">M`0`)```#@P````8`#```````!0````P&quot;A`.$`P&lt;```#\`@``____````!```M`&quot;T!```(````^@(`````````````!````&quot;T!`0`(````^@(```````#___\`M!````&quot;T!`@`'````&amp;P2$`X0#``````@```#Z`@```````,#`P``$````+0$#M``&lt;```#\`@``P,#`````!````&quot;T!!``*````)`,#````A`,``+4&quot;T@&quot;$`P0`M```M`0$`!P```/P&quot;```````````$````+0$%``P````D`P0`WP*$`P``I0``E`+,!T0&amp;$`P0```#P`00`!````/`!`@`$````\`$#``,```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="311">
+      <b:RgbMeta cb="314">M`0`)```#G0````8`$```````!0````P&quot;AP.$`P&lt;```#\`@``____````!```M`&quot;T!```(````^@(`````````````!````&quot;T!`0`(````^@(```````#___\`M!````&quot;T!`@`'````&amp;P2$`X0#``````@```#Z`@```````,#`P``$````+0$#M``&lt;```#\`@``P,#`````!````&quot;T!!``,````)`,$`!@`!0#J``4`&lt;0&amp;,``@!M]0`$````+0$!``&lt;```#\`@``````````!````&quot;T!!0`0````)`,&amp;`.(!A`,BM`+D!W0$``,\&quot;```,`&lt;4!U0*'`P0````M`0,`!````&quot;T!!``0````)`,&amp;`.D!L^P!X`60!UP'&quot;`1,`@`/I`(`#H`+``00```#P`04`!````/`!`@`#```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="411">
+      <b:RgbMeta cb="262">M`0`)```#@P````8`#```````!0````P&quot;A`.$`P&lt;```#\`@``____````!```M`&quot;T!```(````^@(`````````````!````&quot;T!`0`(````^@(```````#___\`M!````&quot;T!`@`'````&amp;P2$`X0#``````@```#Z`@```````,#`P``$````+0$#M``&lt;```#\`@``P,#`````!````&quot;T!!``*````)`,#`````````,\`T@````0`M```M`0$`!P```/P&quot;```````````$````+0$%``P````D`P0`WP(`````WP(`E`-$!T0$```0```#P`00`!````/`!`@`$````\`$#``,```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="511">
+      <b:RgbMeta cb="314">M`0`)```#G0````8`$```````!0````P&quot;A`.'`P&lt;```#\`@``____````!```M`&quot;T!```(````^@(`````````````!````&quot;T!`0`(````^@(```````#___\`M!````&quot;T!`@`'````&amp;P2$`X0#``````@```#Z`@```````,#`P``$````+0$#M``&lt;```#\`@``P,#`````!````&quot;T!!``,````)`,$````#P```.$`AP!H`?``M_P`$````+0$!``&lt;```#\`@``````````!````&quot;T!!0`0````)`,&amp;`(0#X@'(M`2(```#=`0``SP+%`0P!AP/5`@0````M`0,`!````&quot;T!!``0````)`,&amp;`/L`LV@%D`7@!P@'7`8`#$P&quot;``]H`P`&amp;@`@0```#P`04`!````/`!`@`#```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="611">
+      <b:RgbMeta cb="262">M`0`)```#@P````8`#```````!0````P&quot;A`.$`P&lt;```#\`@``____````!```M`&quot;T!```(````^@(`````````````!````&quot;T!`0`(````^@(```````#___\`M!````&quot;T!`@`'````&amp;P2$`X0#``````@```#Z`@```````,#`P``$````+0$#M``&lt;```#\`@``P,#`````!````&quot;T!!``*````)`,#`(0#``&quot;$`\\`L@(```0`M```M`0$`!P```/P&quot;```````````$````+0$%``P````D`P0`I0```(0#WP*$E`]$!LP$```0```#P`00`!````/`!`@`$````\`$#``,```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="711">
+      <b:RgbMeta cb="314">M`0`)```#G0````8`$```````!0````P&quot;B0.$`P&lt;```#\`@``____````!```M`&quot;T!```(````^@(`````````````!````&quot;T!`0`(````^@(```````#___\`M!````&quot;T!`@`'````&amp;P2&amp;`X0#`@````@```#Z`@```````,#`P``$````+0$#M``&lt;```#\`@``P,#`````!````&quot;T!!``,````)`,$`'&lt;#``&quot;E`@``'@*'`(&lt;&quot;M\``$````+0$!``&lt;```#\`@``````````!````&quot;T!!0`0````)`,&amp;`*(!A@-BM`[L!IP$&quot;`+4``@!X`L&lt;!KP&quot;)`P0````M`0,`!````&quot;T!!``0````)`,&amp;`*H!L_0`,`F8!O`'$`7$#@@.J`H(#Y`#&quot;`00```#P`04`!````/`!`@`#```````</b:RgbMeta>
+     </b:OplFbmd>
+    </b:RgFbmd>
+   </b:OplFb>
+   <b:OplFb type="OplFb" priv="111">
+    <b:SzFBrdName>Torn Paper...Black</b:SzFBrdName>
+    <b:DzlCorner>457200</b:DzlCorner>
+    <b:DxlHoriz>12700000</b:DxlHoriz>
+    <b:DylVert>12700000</b:DylVert>
+    <b:CMeta>8</b:CMeta>
+    <b:RgbMeta type="OplRgfbMeta">
+     <b:Data priv="3">108</b:Data>
+     <b:Data priv="103">670</b:Data>
+     <b:Data priv="203">1074</b:Data>
+     <b:Data priv="303">1636</b:Data>
+     <b:Data priv="403">2040</b:Data>
+     <b:Data priv="503">2602</b:Data>
+     <b:Data priv="603">3006</b:Data>
+     <b:Data priv="703">3568</b:Data>
+    </b:RgbMeta>
+    <b:CFbmd>8</b:CFbmd>
+    <b:RgFbmd type="OplFbmd">
+     <b:OplFbmd type="OplFbmd" priv="11">
+      <b:RgbMeta cb="562">M`0`)```#&amp;0$```0`4```````!0````L&quot;]`%.\P4````,`N&lt;#Z`,%````&quot;P+;M!4[S!0````P&quot;&amp;?SH`P0````&amp;`0$`!P```/P&quot;```````````$````+0$```@`M``#Z`@4``````/___P`$````+0$!``0````&amp;`0$`4````&quot;0#)@#*\^$$-O?AM!#;WU07]]KP%S/;:!:KVJ`5`]M,%_/6S!:7UTP6?]=`%D_7,!8/UQ05Q];\%M8/6X!5'ULP5']:\%1/6N!;CTV@5[]+&lt;%&gt;?2V!7/TM05J]+8%7O2X!4_TN@5`M]+P%+_2_!1WTPP4,],8%^_/*!&gt;OSS@7=\]$%T?/4!&lt;CSUP7#\]D%P?/:!4[SMVP73\TX%RO/A!`@```#Z`@`````````````$````+0$&quot;``&lt;```#\`@``____M````!````&quot;T!`P`$````\`$```&lt;```#\`@``````````!````&quot;T!```$````M+0$!``0````&amp;`0$`4````&quot;0#)@!&amp;]/0!1O0I!5/SVP5L\Z(%3O-Q!8#S3P55M\^4$=/.A!%7S2@18\T0$7/,X!&amp;/S*`1I\Q8$&lt;/,%!'7S]@-X\^T#&gt;?/J`T[SM7@-P\R(#&lt;?,@`W+S&amp;@-Q\Q$#&lt;/,%`V[S]@)K\^8&quot;://5`F7SQ`)A\[(&quot;7O.AM`EKSD0)7\X,&quot;5/-X`E'S;@)/\VD&quot;3O-G`G?S'0).\_0!1O3T`00````M`0(`6!````&quot;T!`P`$````\`$```,```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="111">
+      <b:RgbMeta cb="404">M`0`)```#R@````0`&lt;```````!0````L&quot;]`$I^04````,`N&lt;#Z`,%````&quot;P+;M!2GY!0````P&quot;&amp;?SH`P0````&amp;`0$`!P```/P&quot;```````````$````+0$```@`M``#Z`@4``````/___P`$````+0$!``0````&amp;`0$`&lt;````&quot;0#-@`1_&gt;$$*?GAM!&quot;GYTP4_^98%3OG/!6OYDP5Y^=(%D_F*!:'YS06V^9H%S/G*!=_YEP7D^&lt;&lt;%M&quot;/J2!0_ZT04J^K0%0OK5!5'ZDP5A^JD%@OJR!93ZT`6V^ID%N?K/!=/ZNP7AM^LP%]?J;!?[ZNP40^Z$%+/O4!4'[EP52^]0%8_O%!6W[HP69^Y`%K_O.!&lt;[[MF`7A^]8%]ONY!03\SP44_*8%)/S2!3W\D`5)_-(%7/R'!7/\K@5[_)@%B?S2M!:/\D06Y_-,%SORR!&gt;G\TP7P_)D%$?W;!1']X00(````^@(`````````````L!````&quot;T!`@`'````_`(``/___P````0````M`0,`!````/`!```#```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="211">
+      <b:RgbMeta cb="562">M`0`)```#&amp;0$```0`4```````!0````L&quot;]`$&amp;_P4````,`N&lt;#Z`,%````&quot;P+;M!0;_!0````P&quot;&amp;?SH`P0````&amp;`0$`!P```/P&quot;```````````$````+0$```@`M``#Z`@4``````/___P`$````+0$!``0````&amp;`0$`4````&quot;0#)@!R`N$$!O_AM!`;_U04__[P%&lt;/_:!9+_J`7\_],%0`&quot;T!9&lt;`TP6=`-`%J0#,!;D`Q@7+`+\%MW`&quot;X!&gt;L`LP7U`+`%^`&quot;O!80!V@7!`;@%PP&amp;W!&lt;D!M@72`;&lt;%W@&amp;X!&gt;T!N@7\M`;T%#0+`!1\&quot;PP4P`L&lt;%00+*!5$&quot;S@5?`M$%:P+4!70&quot;UP5Y`MD%&gt;P+:!&gt;X&quot;MVP5I`DX%&lt;@+A!`@```#Z`@`````````````$````+0$&quot;``&lt;```#\`@``____M````!````&quot;T!`P`$````\`$```&lt;```#\`@``````````!````&quot;T!```$````M+0$!``0````&amp;`0$`4````&quot;0#)@#T`?0!]`$J!&gt;D&quot;VP70`J(%[@)Q!;P&quot;3P7GM`N4$R`*A!.&lt;&quot;2@3D`D0$X`(X!-H&quot;*`33`A&lt;$S`(%!,&lt;&quot;]@/$`NP#PP+I`^X&quot;M7@/,`B$#RP(?`\H&quot;&amp;0/+`A`#S`($`\X&quot;]0+1`N8&quot;U`+5`M&lt;&quot;PP+;`K(&quot;W@*AM`N(&quot;D0+E`H,&quot;Z`)W`NL&quot;;@+M`FD&quot;[@)G`L4&quot;'0+I`O0!]`'T`00````M`0(`6!````&quot;T!`P`$````\`$```,```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="311">
+      <b:RgbMeta cb="404">M`0`)```#R@````0`&lt;```````!0````L&quot;&amp;?P&amp;_P4````,`N&lt;#Z`,%````&quot;P(`M``;_!0````P&quot;&amp;?SH`P0````&amp;`0$`!P```/P&quot;```````````$````+0$```@`M``#Z`@4``````/___P`$````+0$!``0````&amp;`0$`&lt;````&quot;0#-@#T`1G\]`$`M`.L&quot;``&quot;L`NK_YP+;_ZD&quot;OO_J`K#_H`*6_^4&quot;B/^Q`G/_X@)=_ZT&quot;2O_?`D7_MJ`(A_^D&quot;&amp;O_,`O_^[0+G_JD&quot;V/[``LC^R@*G_N@&quot;E?ZO`G/^YP)P_M,&quot;5O[DM`DC^L@(T_M,&quot;*_ZX`AG^[`+^_:T&quot;Z?WL`MC]W0+'_;H&quot;O?VF`I']Y@)[_:X&quot;M7/WN`DG]T0(T_&gt;&lt;&quot;)OV]`A;]Z@(&amp;_:8&quot;[?SJ`N'\G0+._,8&quot;M_RN`J_\Z@*AM_*&lt;&quot;A_SK`G'\R@)&lt;_.L&quot;0?RO`CK\[@(9_/0!&amp;?P(````^@(`````````````L!````&quot;T!`@`'````_`(``/___P````0````M`0,`!````/`!```#```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="411">
+      <b:RgbMeta cb="562">M`0`)```#&amp;0$```0`4```````!0````L&quot;+O@&amp;_P4````,`NL#Z`,%````&quot;P(9M_`;_!0````P&quot;%?SH`P0````&amp;`0$`!P```/P&quot;```````````$````+0$```@`M``#Z`@4``````/___P`$````+0$!``0````&amp;`0$`4````&quot;0#)@!R`BWY!O\MM^0;_-/@__TWX&lt;/\O^)+_8OC\_S;X0`!6^)&lt;`-OB=`#GXJ0`]^+D`1/C+`$OXMW`!1^.L`5_CU`%KX^`!;^(0!+_C!`5+XPP%3^,D!5/C2`5/XW@%1^.T!3_C\M`4WX#0)*^!\&quot;1O@P`D/X00(_^%$&quot;._A?`CCX:P(U^'0&quot;,OAY`C#X&gt;P(O^.X&quot;M+OAI`K[X&lt;@(M^0@```#Z`@`````````````$````+0$&quot;``&lt;```#\`@``____M````!````&quot;T!`P`$````\`$```&lt;```#\`@``````````!````&quot;T!```$````M+0$!``0````&amp;`0$`4````&quot;0#)@#T`1G\]`'@^.D&quot;+OC0`F?X[@*8^+P&quot;NOCGM`B7YR`)I^&gt;&lt;&quot;P/GD`L;YX`+2^=H&quot;XOG3`O3YS`(&amp;^L&lt;&quot;%/K$`A[ZPP(A^NX&quot;MKOK,`NOZRP+M^LH&quot;\_K+`OSZS`()^\X&quot;%_O1`B?[U`(X^]&lt;&quot;2?O;`EO[W@)LM^^(&quot;?/OE`HK[Z`*5^^L&quot;G_OM`J3[[@*F^\4&quot;\/OI`AG\]`$9_`0````M`0(`6!````&quot;T!`P`$````\`$```,```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="511">
+      <b:RgbMeta cb="404">M`0`)```#R@````0`&lt;```````!0````L&quot;+O@I^04````,`NL#Z`,%````&quot;P(9M_&quot;GY!0````P&quot;%?SH`P0````&amp;`0$`!P```/P&quot;```````````$````+0$```@`M``#Z`@4``````/___P`$````+0$!``0````&amp;`0$`&lt;````&quot;0#-@`I^2WY$?TMM^1'],?C[_'/X[/PU^,_\=OC!_#+XIOQ_^)G\-_B$_&amp;WX;OP[^%K\&lt;?A5_#[XM,OQW^&quot;K\,_@/_%+X^/LO^.C[=OC8^U[XM_M4^*7[-/B#^V_X@/LV^&amp;;[2_A8M^SCX1/ML^#O[2_@H^V?X#/LP^/;Z&lt;?CE^C#XU/H_^,KZ9/B&gt;^GCXB/HW^&amp;GZM&lt;/A6^B[X0?I,^#/Z-?@C^F'X$_HS^/KY&gt;?CM^3+XV_F&quot;^,3Y6/B[^7#XKODRM^)/Y=_A]^3'X:/E3^$[Y,?A&amp;^6_X*?DQ^&quot;GY+?D(````^@(`````````````L!````&quot;T!`@`'````_`(``/___P````0````M`0,`!````/`!```#```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="611">
+      <b:RgbMeta cb="562">M`0`)```#&amp;0$```0`4```````!0````L&quot;+OA.\P4````,`NL#Z`,%````&quot;P(9M_$[S!0````P&quot;%?SH`P0````&amp;`0$`!P```/P&quot;```````````$````+0$```@`M``#Z`@4``````/___P`$````+0$!``0````&amp;`0$`4````&quot;0#)@#*\RWY-O&lt;MM^3;W-/C]]DWXS/8O^*KV8OA`]C;X_/56^*7U-OB?]3GXD_4]^(/U1/AQ]4OXM8/51^%'U5_A']5KX1/5;^+CT+_A[]%+X&gt;?13^'/T5/AJ]%/X7O11^$_T3_A`M]$WX+_1*^!WT1O@,]$/X^_,_^.OS._C=\SCXT?,U^,CS,OC#\S#XP?,O^$[SM+OC3\[[XRO,M^0@```#Z`@`````````````$````+0$&quot;``&lt;```#\`@``____M````!````&quot;T!`P`$````\`$```&lt;```#\`@``````````!````&quot;T!```$````M+0$!``0````&amp;`0$`4````&quot;0#)@!&amp;]!G\1O3@^%/S+OAK\V?X3O.8^(#SNOA5M\R7Y=/-I^57SP/E8\\;Y7//2^6/SXOEI\_3Y&lt;/,&amp;^G7S%/IX\Q[Z&gt;?,A^D[SMKOIP\^OZ&lt;?/M^G+S\_IQ\_SZ&lt;/,)^V[S%_MK\R?[:/,X^V7S2?MA\UO[7O-LM^UKS?/M7\XK[5/.5^U'SG_M/\Z3[3O.F^W?S\/M3\QG\1O09_`0````M`0(`6!````&quot;T!`P`$````\`$```,```````</b:RgbMeta>
+     </b:OplFbmd>
+     <b:OplFbmd type="OplFbmd" priv="711">
+      <b:RgbMeta cb="404">M`0`)```#R@````0`&lt;```````!0````L&quot;#/Y.\P4````,`N@#Z`,%````&quot;P+TM`4[S!0````P&quot;&amp;/SH`P0````&amp;`0$`!P```/P&quot;```````````$````+0$```@`M``#Z`@4``````/___P`$````+0$!``0````&amp;`0$`&lt;````&quot;0#-@!&amp;]/0!1O0,M_E'S#/Z/\R+^5?,Q_I+S3OY2\US^F_-V_E?SA/Z+\YG^6O.O_H[SPOY=\\?^MD_/K_E/S\OYP\PW_3_,D_Y+S-/]\\T3_&lt;O-E_U3S=_^,\YC_5?.;_VGSMO]8M\\3_BO/7_VGSX?^$\_/_4/,.`([S)`!0\S4`7_-%`(+S3P&quot;5\WL`5O.1`(WSML`!.\\,`:_/8`%7SYP!_\_8`4O,&amp;`97S(`%2\RL!GO,^`7;S50&amp;-\UX!4O-KM`93SA0%1\YL!&lt;O.P`5'SRP&amp;,\](!3O/T`4;T]`$(````^@(`````````````L!````&quot;T!`@`'````_`(``/___P````0````M`0,`!````/`!```#```````</b:RgbMeta>
+     </b:OplFbmd>
+    </b:RgFbmd>
+   </b:OplFb>
+  </b:Rgfb>
+ </b:otyPlbfb>
+ <b:TextDocProperties type="OplDocq" oty="91" oh="280">
+  <b:OhPlcqsb priv="20e">282</b:OhPlcqsb>
+  <b:OhPlbefd priv="40e">309</b:OhPlbefd>
+  <b:EcpSplitMenu type="OplEcp" priv="a13">
+   <b:Color>134217728</b:Color>
+  </b:EcpSplitMenu>
+ </b:TextDocProperties>
+ <b:StoryBlock type="OplPlcQsb" oty="101" oh="282">
+  <b:IqsbMax priv="104">4</b:IqsbMax>
+  <b:Rgqsb type="OplQsb" priv="214">
+   <b:OplQsb type="OplQsb" priv="11">
+    <b:Qsid priv="104">3</b:Qsid>
+    <b:TomfCopyfitBase priv="80b">-9999996.000000</b:TomfCopyfitBase>
+    <b:TomfCopyfitBase2 priv="90b">-9999996.000000</b:TomfCopyfitBase2>
+   </b:OplQsb>
+   <b:OplQsb type="OplQsb" priv="111">
+    <b:Qsid>4</b:Qsid>
+    <b:TomfCopyfitBase>-9999996.000000</b:TomfCopyfitBase>
+    <b:TomfCopyfitBase2>-9999996.000000</b:TomfCopyfitBase2>
+   </b:OplQsb>
+   <b:OplQsb type="OplQsb" priv="211">
+    <b:Qsid>5</b:Qsid>
+    <b:TomfCopyfitBase>-9999996.000000</b:TomfCopyfitBase>
+    <b:TomfCopyfitBase2>-9999996.000000</b:TomfCopyfitBase2>
+   </b:OplQsb>
+   <b:OplQsb type="OplQsb" priv="311">
+    <b:Qsid>11</b:Qsid>
+    <b:TomfCopyfitBase>-9999996.000000</b:TomfCopyfitBase>
+    <b:TomfCopyfitBase2>-9999996.000000</b:TomfCopyfitBase2>
+   </b:OplQsb>
+  </b:Rgqsb>
+ </b:StoryBlock>
+ <b:EmbeddedFontInfo type="OplPlbEfd" oty="108" oh="309">
+  <b:IefdMax priv="104">2</b:IefdMax>
+  <b:Rgefd type="OplEfd" priv="214">
+   <b:OplEfd type="OplEfd" priv="11">
+    <b:CStyles priv="302">0</b:CStyles>
+    <b:SzName priv="418">Times New Roman</b:SzName>
+    <b:grfqisidLo priv="604">223</b:grfqisidLo>
+    <b:rgfffc priv="704">368131</b:rgfffc>
+    <b:Fs priv="b09">8AWH``````(`(`````````/\`````````</b:Fs>
+    <b:panose priv="d10" cb="10">*`@(&amp;`P4$!0(#!`</b:panose>
+    <b:grfqisidHi priv="e04">4096</b:grfqisidHi>
+   </b:OplEfd>
+   <b:OplEfd type="OplEfd" priv="111">
+    <b:CStyles>0</b:CStyles>
+    <b:SzName>Kristen ITC</b:SzName>
+    <b:grfqisidLo>7</b:grfqisidLo>
+    <b:rgfffc>3</b:rgfffc>
+    <b:Fs>8`P````````````````````$`````````</b:Fs>
+    <b:panose cb="10">*`P4%`@0&quot;`@,&quot;`@</b:panose>
+   </b:OplEfd>
+  </b:Rgefd>
+ </b:EmbeddedFontInfo>
+ <b:ColorScheme type="OplSccm" oty="92" oh="283">
+  <b:Cecp priv="104">8</b:Cecp>
+  <b:Rgecp type="OplEcp" priv="214">
+   <b:OplEcp priv="f">Empty</b:OplEcp>
+   <b:OplEcp type="OplEcp" priv="111">
+    <b:Color>16711680</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type="OplEcp" priv="211">
+    <b:Color>52479</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type="OplEcp" priv="311">
+    <b:Color>26367</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type="OplEcp" priv="411">
+    <b:Color>13421772</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type="OplEcp" priv="511">
+    <b:Color>16737792</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type="OplEcp" priv="611">
+    <b:Color>13382502</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type="OplEcp" priv="711">
+    <b:Color>16777215</b:Color>
+   </b:OplEcp>
+  </b:Rgecp>
+  <b:IScheme priv="304">-1</b:IScheme>
+  <b:FUserOwnsScheme priv="500">True</b:FUserOwnsScheme>
+  <b:SzSchemeName priv="618">(Custom)</b:SzSchemeName>
+ </b:ColorScheme>
+</xml><![endif]-->
+<title>Page Title</title>
+<!--[if pub]><xml>
+ <b:Page type="OplPd" oty="67" oh="266">
+  <b:PtlvOrigin type="OplPt" priv="511">
+   <b:Xl>22860000</b:Xl>
+   <b:Yl>22860000</b:Yl>
+  </b:PtlvOrigin>
+  <b:Oid priv="605">(`0`````````</b:Oid>
+  <b:OhoplControlling priv="80e">313</b:OhoplControlling>
+  <b:OhoplWebPageProps priv="90e">267</b:OhoplWebPageProps>
+  <b:OhoplFormProperties priv="b0e">268</b:OhoplFormProperties>
+  <b:OhpdMaster priv="d0d">263</b:OhpdMaster>
+  <b:PgtType priv="1004">5</b:PgtType>
+ </b:Page>
+ <b:otyOplControlling type="OplControlling" oty="77" oh="313">
+  <b:CodeVersion>1</b:CodeVersion>
+  <b:PocScenario type="OplPocScenario">
+   <b:CodeVersion>1</b:CodeVersion>
+   <b:Set>32</b:Set>
+   <b:Style>1</b:Style>
+   <b:PageOrientation>1</b:PageOrientation>
+   <b:QuickPubsLayout>15</b:QuickPubsLayout>
+  </b:PocScenario>
+  <b:DesignId>1</b:DesignId>
+ </b:otyOplControlling>
+ <b:otyFormProperties type="OplOdpoFormControl" oty="119" oh="268">
+  <b:FCOSubmitType priv="c04">2</b:FCOSubmitType>
+  <b:FCOEmailAddr priv="e18">someone@microsoft.com</b:FCOEmailAddr>
+  <b:FCOEmailTitle priv="f18">Web Site Form Response</b:FCOEmailTitle>
+  <b:FCOConfirmText priv="1018">Your information was received</b:FCOConfirmText>
+  <b:FCOResultsFile priv="1318">FORMDATA.HTM</b:FCOResultsFile>
+  <b:FCOPageNumber priv="1704">1</b:FCOPageNumber>
+  <b:FCOSubmitUrl priv="1818">http://example.microsoft.com/~user/ispscript.cgi</b:FCOSubmitUrl>
+ </b:otyFormProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Kristen ITC";
+	mso-font-charset:0;
+	mso-generic-font-family:script;
+	mso-font-pitch:variable;
+	panose-1:3 5 5 2 4 2 2 3 2 2;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"Times New Roman";
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	panose-1:2 2 6 3 5 4 5 2 3 4;
+	mso-font-signature:31367 -2147483648 8 0 255 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	text-indent:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	line-height:100%;
+	text-align:left;
+	font-family:"Times New Roman";
+	mso-default-font-family:"Times New Roman";
+	mso-ascii-font-family:"Times New Roman";
+	mso-latin-font-family:"Times New Roman";
+	mso-greek-font-family:"Times New Roman";
+	mso-cyrillic-font-family:"Times New Roman";
+	mso-hebrew-font-family:"Times New Roman";
+	mso-arabic-font-family:"Times New Roman";
+	mso-devanagari-font-family:Mangal;
+	mso-bengali-font-family:Vrinda;
+	mso-gurmukhi-font-family:Raavi;
+	mso-oriya-font-family:Sendnya;
+	mso-tamil-font-family:Latha;
+	mso-telugu-font-family:Gautami;
+	mso-kannada-font-family:Tunga;
+	mso-thai-font-family:"Angsana New";
+	mso-georgian-font-family:Sylfaen;
+	mso-hangul-font-family:Batang;
+	mso-kana-font-family:"MS Mincho";
+	mso-bopomofo-font-family:PMingLiU;
+	mso-han-font-family:SimSun;
+	mso-halfwidthkana-font-family:"MS Mincho";
+	mso-syriac-font-family:"Estrangelo Edessa";
+	mso-thaana-font-family:Ahamedey;
+	mso-latinext-font-family:"Times New Roman";
+	font-size:10.0pt;
+	color:black;
+	mso-font-kerning:14.0pt;
+	mso-char-tracking:100%;
+	mso-font-width:100%;}
+ol
+	{margin-top:0in;
+	margin-bottom:0in;
+	margin-left:.25in;}
+ul
+	{margin-top:0in;
+	margin-bottom:0in;
+	margin-left:.25in;}
+@page
+	{size:8.5in 11.0in;
+	mso-paper-source:271;
+	mso-hyphenate:auto;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3073" fill="f" fillcolor="white [7]"
+  strokecolor="black [0]">
+  <v:fill color="white [7]" color2="black [0]" on="f"/>
+  <v:stroke color="black [0]" color2="white [7]">
+   <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+   <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+   <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+   <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+   <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+  </v:stroke>
+  <v:shadow color="#ccc [4]"/>
+  <v:textbox inset="2.88pt,2.88pt,2.88pt,2.88pt"/>
+  <o:colormenu v:ext="edit" fillcolor="blue [1]" strokecolor="black [0]"
+   shadowcolor="#ccc [4]"/>
+ </o:shapedefaults><o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]--><!--[if gte ie 4]><SCRIPT LANGUAGE=javascript FOR=window EVENT=onload>
+// determines ir rectangle (r1) overlaps rectangle (r2)
+function FRcOverlap(l1,t1,r1,b1, l2,t2,r2,b2)
+{
+	return (l1<r2 && r1>l2 && t1<b2 && b1>t2);
+} // FRcOverlap
+function xw(elem)
+{	
+	if (elem.offsetParent!=null) return elem.offsetLeft+xw(elem.offsetParent);	
+	return elem.offsetLeft;						
+}
+function yw(elem)
+{
+	if (elem.offsetParent!=null) return elem.offsetTop+yw(elem.offsetParent);
+	return elem.offsetTop;				
+}
+function wraptext(txtFrame, rgrco)
+{	
+	rngOrig=document.body.createTextRange();
+	rngOrig.moveToElementText(txtFrame);
+	rng=rngOrig.duplicate();
+	rng.collapse(true);
+
+	xwTxt=xw(txtFrame);
+	ywTxt=yw(txtFrame);
+
+	while (rng.compareEndPoints("EndToEnd", rngOrig)==-1 && rng.expand("word") )
+		{
+		xoL=rng.boundingLeft-xwTxt;
+		yoT=rng.boundingTop-ywTxt;
+		xoR=xoL+rng.boundingWidth;
+		yoB=yoT+rng.boundingHeight;
+		
+		// check all void rectangles for overlap with this span's rectangle
+		for (irc=0;irc<rgrco.length;irc+=4)
+			{
+			// if span rectangle overlaps any of the void rectangles inject wrapping image
+			if (FRcOverlap(xoL, yoT, xoR, yoB, rgrco[irc], rgrco[irc+1], rgrco[irc+2], rgrco[irc+3]) && rng.htmlText!="")
+				{	
+				rng.collapse(true);
+				rng.pasteHTML("<img style='height:6;width:" + ((rgrco[irc+2]-xoL)).toString() + "'> ");
+				irc=rgrco.length;
+				}
+			}
+		rng.collapse(false);
+		}
+}
+
+wraptext(wrapdiv302, new Array (0,157,436,159));
+</SCRIPT>
+<![endif]-->
+</head>
+
+<body link="#0066FF" vlink="#6633CC" bgcolor="#F8F8F8"
+background="project_files/image001.jpg" style='tab-interval:.5in;margin:0'>
+<!--[if gte mso 9]><xml>
+ <v:background id="_x0000_s2049" o:bwmode="white" fillcolor="#f8f8f8">
+  <v:fill src="project_files/image001.jpg" o:title="Newsprint" type="tile"/>
+ </v:background></xml><![endif]-->
+
+<div style='position:relative;width:8.5in;height:11.0in'>
+<!--[if gte vml 1]><v:shapetype id="_x0000_t158" coordsize="21600,21600" o:spt="158"
+ adj="1404,10800" path="m@37@0c@38@3@39@1@40@0@41@3@42@1@43@0m@30@4c@31@5@32@6@33@4@34@5@35@6@36@4e">
+ <v:formulas>
+  <v:f eqn="val #0"/>
+  <v:f eqn="prod @0 41 9"/>
+  <v:f eqn="prod @0 23 9"/>
+  <v:f eqn="sum 0 0 @2"/>
+  <v:f eqn="sum 21600 0 #0"/>
+  <v:f eqn="sum 21600 0 @1"/>
+  <v:f eqn="sum 21600 0 @3"/>
+  <v:f eqn="sum #1 0 10800"/>
+  <v:f eqn="sum 21600 0 #1"/>
+  <v:f eqn="prod @8 1 3"/>
+  <v:f eqn="prod @8 2 3"/>
+  <v:f eqn="prod @8 4 3"/>
+  <v:f eqn="prod @8 5 3"/>
+  <v:f eqn="prod @8 2 1"/>
+  <v:f eqn="sum 21600 0 @9"/>
+  <v:f eqn="sum 21600 0 @10"/>
+  <v:f eqn="sum 21600 0 @8"/>
+  <v:f eqn="sum 21600 0 @11"/>
+  <v:f eqn="sum 21600 0 @12"/>
+  <v:f eqn="sum 21600 0 @13"/>
+  <v:f eqn="prod #1 1 3"/>
+  <v:f eqn="prod #1 2 3"/>
+  <v:f eqn="prod #1 4 3"/>
+  <v:f eqn="prod #1 5 3"/>
+  <v:f eqn="prod #1 2 1"/>
+  <v:f eqn="sum 21600 0 @20"/>
+  <v:f eqn="sum 21600 0 @21"/>
+  <v:f eqn="sum 21600 0 @22"/>
+  <v:f eqn="sum 21600 0 @23"/>
+  <v:f eqn="sum 21600 0 @24"/>
+  <v:f eqn="if @7 @19 0"/>
+  <v:f eqn="if @7 @18 @20"/>
+  <v:f eqn="if @7 @17 @21"/>
+  <v:f eqn="if @7 @16 #1"/>
+  <v:f eqn="if @7 @15 @22"/>
+  <v:f eqn="if @7 @14 @23"/>
+  <v:f eqn="if @7 21600 @24"/>
+  <v:f eqn="if @7 0 @29"/>
+  <v:f eqn="if @7 @9 @28"/>
+  <v:f eqn="if @7 @10 @27"/>
+  <v:f eqn="if @7 @8 @8"/>
+  <v:f eqn="if @7 @11 @26"/>
+  <v:f eqn="if @7 @12 @25"/>
+  <v:f eqn="if @7 @13 21600"/>
+  <v:f eqn="sum @36 0 @30"/>
+  <v:f eqn="sum @4 0 @0"/>
+  <v:f eqn="max @30 @37"/>
+  <v:f eqn="min @36 @43"/>
+  <v:f eqn="prod @0 2 1"/>
+  <v:f eqn="sum 21600 0 @48"/>
+  <v:f eqn="mid @36 @43"/>
+  <v:f eqn="mid @30 @37"/>
+ </v:formulas>
+ <v:path textpathok="t" o:connecttype="custom" o:connectlocs="@40,@0;@51,10800;@33,@4;@50,10800"
+  o:connectangles="270,180,90,0"/>
+ <v:textpath on="t" fitshape="t" xscale="t"/>
+ <v:handles>
+  <v:h position="topLeft,#0" yrange="0,2229"/>
+  <v:h position="#1,bottomRight" xrange="8640,12960"/>
+ </v:handles>
+ <o:lock v:ext="edit" text="t" shapetype="t"/>
+</v:shapetype><v:shape id="_x0000_s1027" type="#_x0000_t158" alt="Martin Luther"
+ style='position:absolute;left:110.42pt;top:90.57pt;width:396pt;height:1in;
+ z-index:1;mso-wrap-distance-left:2.88pt;mso-wrap-distance-top:2.88pt;
+ mso-wrap-distance-right:2.88pt;mso-wrap-distance-bottom:2.88pt' fillcolor="#5e9eff"
+ strokecolor="black [0]" strokeweight="1pt" o:cliptowrap="t">
+ <v:fill color2="#ffebfa" rotate="t" colors="0 #5e9eff;26214f #85c2ff;45875f #c4d6eb;1 #ffebfa"
+  method="none" focus="100%" type="gradient"/>
+ <v:stroke>
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:shadow on="t" color="#009" offset="7pt,-7pt"/>
+ <v:textpath style='font-family:"Cooper Black";v-text-spacing:52429f;
+  v-text-kern:t' trim="t" fitpath="t" xscale="f" string="Martin Luther"/>
+ <![if pub]><b:otyEscher type="OplPo" oty="32" oh="296">
+  <b:FUserChangedFmt priv="200">True</b:FUserChangedFmt>
+  <b:FMoved priv="300">True</b:FMoved>
+  <b:Txwp priv="402">2</b:Txwp>
+  <b:Oid priv="c05">(```````````</b:Oid>
+  <b:OidAssociated priv="d05">(```````````</b:OidAssociated>
+ </b:otyEscher>
+ <![endif]>
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:1;left:146px;top:111px;width:539px;height:107px'><img
+width=539 height=107 src="project_files/image002.gif" alt="Martin Luther"
+v:shapes="_x0000_s1027"></span><![endif]><!--[if gte vml 1]><v:shapetype id="_x0000_t202"
+ coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+ <v:stroke joinstyle="miter"/>
+ <v:path gradientshapeok="t" o:connecttype="rect"/>
+</v:shapetype><v:shape id="_x0000_s1028" type="#_x0000_t202" style='position:absolute;
+ left:382.5pt;top:165.42pt;width:94.5pt;height:18pt;z-index:2;
+ mso-wrap-distance-left:2.88pt;mso-wrap-distance-top:2.88pt;
+ mso-wrap-distance-right:2.88pt;mso-wrap-distance-bottom:2.88pt' filled="f"
+ fillcolor="white [7]" stroked="f" strokecolor="black [0]" insetpen="t"
+ o:cliptowrap="t">
+ <v:fill color2="black [0]"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:shadow color="#ccc [4]"/>
+ <v:textbox style='mso-column-margin:5.76pt' inset="2.88pt,2.88pt,2.88pt,2.88pt"/>
+ <![if pub]><b:otyEscherText type="OplPo" oty="1" oh="297">
+  <b:FUserChangedFmt>True</b:FUserChangedFmt>
+  <b:FMoved>True</b:FMoved>
+  <b:Txwp>3</b:Txwp>
+  <b:Oid>(```````````</b:Oid>
+  <b:OidAssociated>(```````````</b:OidAssociated>
+  <b:Qsid priv="2704">3</b:Qsid>
+  <b:FIrregOverlap priv="2d00">True</b:FIrregOverlap>
+  <b:DxlMax priv="aa04">1200150</b:DxlMax>
+  <b:DylMax priv="ab04">228600</b:DylMax>
+ </b:otyEscherText>
+ <![endif]>
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:2;left:510px;top:221px;width:126px;height:24px'>
+
+<table cellpadding=0 cellspacing=0>
+ <tr>
+  <td width=126 height=24 style='vertical-align:top'><![endif]>
+  <div v:shape="_x0000_s1028" style='padding:2.88pt 2.88pt 2.88pt 2.88pt'
+  class=shape>
+  <p class=MsoNormal><span style='font-family:"Kristen ITC";mso-default-font-family:
+  "Kristen ITC";mso-ascii-font-family:"Kristen ITC";mso-latin-font-family:"Kristen ITC";
+  language:EN;mso-ansi-language:EN'>By: Tasha Perhus<o:p></o:p></span></p>
+  </div>
+  <![if !vml]></td>
+ </tr>
+</table>
+
+</span><![endif]><!--[if gte vml 1]><v:rect id="_x0000_s1032" alt="" style='position:absolute;
+ left:378.85pt;top:561.57pt;width:113.35pt;height:130.5pt;z-index:3;
+ mso-position-horizontal:absolute' o:preferrelative="t" filled="f" stroked="f"
+ insetpen="t" o:cliptowrap="t">
+ <v:imagedata src="project_files/image003.jpg" o:title="luther2"/>
+ <v:path o:extrusionok="f"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+ <![if pub]><b:otyEscherText type="OplPo" oty="1" oh="298">
+  <b:FUserChangedFmt>True</b:FUserChangedFmt>
+  <b:FMoved>True</b:FMoved>
+  <b:Oid>(```````````</b:Oid>
+  <b:OidAssociated>(```````````</b:OidAssociated>
+  <b:Qtf priv="3404">0</b:Qtf>
+  <b:DxlMax>1439628</b:DxlMax>
+  <b:DylMax>1657350</b:DylMax>
+ </b:otyEscherText>
+ <![endif]>
+</v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:3;left:505px;top:749px;width:151px;height:174px'><img
+width=151 height=174 src="project_files/image004.jpg" v:shapes="_x0000_s1032"></span><![endif]><!--[if gte vml 1]><v:rect
+ id="_x0000_s1033" alt="" style='position:absolute;left:79.2pt;top:175.5pt;
+ width:104.9pt;height:139.5pt;z-index:4;mso-wrap-edited:t;
+ mso-wrap-distance-left:2.88pt;mso-wrap-distance-top:2.88pt;
+ mso-wrap-distance-right:2.88pt;mso-wrap-distance-bottom:2.88pt'
+ o:preferrelative="t" wrapcoords="-154 0 -154 21484 21600 21484 21600 0 -154 0"
+ filled="f" fillcolor="white [7]" stroked="f" strokecolor="black [0]"
+ insetpen="t" o:clip="t" o:cliptowrap="t">
+ <o:clippath o:v="m-154,r,21484l21600,21484,21600,,-154,xe"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"
+   insetpen="t"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"
+   insetpen="t"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"
+   insetpen="t"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"
+   insetpen="t"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:imagedata src="project_files/image005.gif" o:title="luther[1]"/>
+ <v:shadow color="#ccc [4]"/>
+ <v:path o:extrusionok="f"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+ <![if pub]><b:otyEscherText type="OplPo" oty="1" oh="300">
+  <b:FUserChangedFmt>True</b:FUserChangedFmt>
+  <b:FMoved>True</b:FMoved>
+  <b:Txwp>2</b:Txwp>
+  <b:Oid>(```````````</b:Oid>
+  <b:OidAssociated>(```````````</b:OidAssociated>
+  <b:Qtf>0</b:Qtf>
+  <b:Ohlinfo priv="3a0e">301</b:Ohlinfo>
+  <b:FUseCag priv="4000">True</b:FUseCag>
+  <b:DxlMax>1332179</b:DxlMax>
+  <b:DylMax>1771650</b:DylMax>
+ </b:otyEscherText>
+ <b:Filename type="OplFileName" oty="102" oh="301">
+  <b:SzFileName priv="318">luther[1].gif</b:SzFileName>
+ </b:Filename>
+ <![endif]>
+</v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:4;left:106px;top:234px;width:140px;height:186px'><![endif]><![if !mso]><img
+width=140 height=186 src="project_files/image006.jpg" v:shapes="_x0000_s1033"
+class=shape v:dpi="96"><![endif]><![if !vml]></span><![endif]><!--[if gte vml 1]><v:shape
+ id="_x0000_s1040" type="#_x0000_t202" alt="" style='position:absolute;left:187.02pt;
+ top:197.14pt;width:334.98pt;height:126.71pt;z-index:5' filled="f" fillcolor="white [7]"
+ stroked="f" strokecolor="black [0]" insetpen="t" o:cliptowrap="t">
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"
+   insetpen="t"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"
+   insetpen="t"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"
+   insetpen="t"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]" joinstyle="miter"
+   insetpen="t"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:shadow color="#ccc [4]"/>
+ <v:textbox style='mso-column-margin:5.76pt' inset="2.88pt,2.88pt,2.88pt,2.88pt"/>
+ <![if pub]><b:otyEscherText type="OplPo" oty="1" oh="302">
+  <b:FUserChangedFmt>True</b:FUserChangedFmt>
+  <b:FMoved>True</b:FMoved>
+  <b:Txwp>2</b:Txwp>
+  <b:Oid>(```````````</b:Oid>
+  <b:OidAssociated>(```````````</b:OidAssociated>
+  <b:Qsid>4</b:Qsid>
+  <b:FIrregOverlap>True</b:FIrregOverlap>
+  <b:DxlMax>4254246</b:DxlMax>
+  <b:DylMax>1609276</b:DylMax>
+ </b:otyEscherText>
+ <![endif]>
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:5;left:249px;top:263px;width:447px;height:169px'>
+
+<table cellpadding=0 cellspacing=0>
+ <tr>
+  <td width=447 height=169 style='vertical-align:top'><![endif]>
+  <div v:shape="_x0000_s1040" style='padding:2.88pt 2.88pt 2.88pt 2.88pt'
+  class=shape><!--[if gte ie 4]><div id="wrapdiv302"><![endif]-->
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:100%;language:
+  EN;mso-ansi-language:EN'><span style='mso-tab-count:2'>            </span></span><span
+  style='font-size:10.5pt;line-height:100%;font-family:"Kristen ITC";
+  mso-default-font-family:"Kristen ITC";mso-ascii-font-family:"Kristen ITC";
+  mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:EN'>Martin
+  Luther was a German theologian and religious reformer who initiated the
+  Protestant Reformation.<span style='mso-spacerun:yes'>  </span>His influence
+  in religion, politics, economics, education, and language has made him one of
+  the crucial figures in modern European history.<span
+  style='mso-spacerun:yes'>  </span>He was born in Eisleben on November 10,
+  1483.<span style='mso-spacerun:yes'>  </span>His father, Hans Luther, was a
+  coal miner.<span style='mso-spacerun:yes'>  </span>He got an education at
+  Mansfeld,<span style='mso-spacerun:yes'>  </span>Magdeberg, and
+  Eisenach.<span style='mso-spacerun:yes'>  </span>In 1501 he enrolled at the
+  University of Erfurt receiving a bachelor’s </span><span style='language:
+  EN;mso-ansi-language:EN'><o:p></o:p></span></p>
+  <!--[if gte ie 4]></div><![endif]--></div>
+  <![if !vml]></td>
+ </tr>
+</table>
+
+</span><![endif]><!--[if gte vml 1]><v:shape id="_x0000_s1041" type="#_x0000_t202"
+ style='position:absolute;left:79.5pt;top:7in;width:4in;height:214.3pt;
+ z-index:6' filled="f" fillcolor="white [7]" stroked="f" strokecolor="black [0]"
+ insetpen="t" o:cliptowrap="t">
+ <v:fill color2="black [0]"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:shadow color="#ccc [4]"/>
+ <v:textbox style='mso-column-margin:5.76pt' inset="2.88pt,2.88pt,2.88pt,2.88pt"/>
+ <![if pub]><b:otyEscherText type="OplPo" oty="1" oh="303">
+  <b:FUserChangedFmt>True</b:FUserChangedFmt>
+  <b:FMoved>True</b:FMoved>
+  <b:Txwp>3</b:Txwp>
+  <b:Oid>(```````````</b:Oid>
+  <b:OidAssociated>(```````````</b:OidAssociated>
+  <b:Qsid>5</b:Qsid>
+  <b:FIrregOverlap>True</b:FIrregOverlap>
+  <b:DxlMax>3657600</b:DxlMax>
+  <b:DylMax>2721610</b:DylMax>
+ </b:otyEscherText>
+ <![endif]>
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:6;left:106px;top:672px;width:384px;height:286px'>
+
+<table cellpadding=0 cellspacing=0>
+ <tr>
+  <td width=384 height=286 style='vertical-align:top'><![endif]>
+  <div v:shape="_x0000_s1041" style='padding:2.88pt 2.88pt 2.88pt 2.88pt'
+  class=shape>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:100%;font-family:
+  "Kristen ITC";mso-default-font-family:"Kristen ITC";mso-ascii-font-family:
+  "Kristen ITC";mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:
+  EN'><span style='mso-tab-count:1'>         </span>Martin Luther started the
+  Reformation.<span style='mso-spacerun:yes'>  </span>He pasted the 95 theses
+  to the door of the Wittenberg castle church in protest of the sale of
+  indulgences to raise money for the building of Saint Peter’s in Rome and
+  other abuses.<span style='mso-spacerun:yes'>  </span>After posting these the
+  went into hiding at the Wartburg Castle<span style='mso-spacerun:yes'> 
+  </span>where<span style='mso-spacerun:yes'>  </span>he translated the Bible
+  from the original Hebrew form to German so the common people could read
+  it.<span style='mso-spacerun:yes'>  </span>He published many books such as </span><span
+  style='font-size:10.5pt;line-height:100%;font-family:"Kristen ITC";
+  mso-default-font-family:"Kristen ITC";mso-ascii-font-family:"Kristen ITC";
+  mso-latin-font-family:"Kristen ITC";font-style:italic;language:EN;mso-ansi-language:
+  EN'>On Christian Liberty (</span><span style='font-size:10.5pt;line-height:
+  100%;font-family:"Kristen ITC";mso-default-font-family:"Kristen ITC";
+  mso-ascii-font-family:"Kristen ITC";mso-latin-font-family:"Kristen ITC";
+  language:EN;mso-ansi-language:EN'><span dir=ltr></span>1519)</span><span
+  style='font-size:10.5pt;line-height:100%;font-family:"Kristen ITC";
+  mso-default-font-family:"Kristen ITC";mso-ascii-font-family:"Kristen ITC";
+  mso-latin-font-family:"Kristen ITC";font-style:italic;language:EN;mso-ansi-language:
+  EN'>, To the Christian Nobility (</span><span style='font-size:10.5pt;
+  line-height:100%;font-family:"Kristen ITC";mso-default-font-family:"Kristen ITC";
+  mso-ascii-font-family:"Kristen ITC";mso-latin-font-family:"Kristen ITC";
+  language:EN;mso-ansi-language:EN'><span dir=ltr></span>1520)</span><span
+  style='font-size:10.5pt;line-height:100%;font-family:"Kristen ITC";
+  mso-default-font-family:"Kristen ITC";mso-ascii-font-family:"Kristen ITC";
+  mso-latin-font-family:"Kristen ITC";font-style:italic;language:EN;mso-ansi-language:
+  EN'>, and On the Bondage of Will (</span><span style='font-size:10.5pt;
+  line-height:100%;font-family:"Kristen ITC";mso-default-font-family:"Kristen ITC";
+  mso-ascii-font-family:"Kristen ITC";mso-latin-font-family:"Kristen ITC";
+  language:EN;mso-ansi-language:EN'><span dir=ltr></span>1525)</span><span
+  style='font-size:10.5pt;line-height:100%;font-family:"Kristen ITC";
+  mso-default-font-family:"Kristen ITC";mso-ascii-font-family:"Kristen ITC";
+  mso-latin-font-family:"Kristen ITC";font-style:italic;language:EN;mso-ansi-language:
+  EN'>. </span><span style='font-size:10.5pt;line-height:100%;font-family:"Kristen ITC";
+  mso-default-font-family:"Kristen ITC";mso-ascii-font-family:"Kristen ITC";
+  mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:EN'>He
+  wrote the </span><span style='font-size:10.5pt;line-height:100%;font-family:
+  "Kristen ITC";mso-default-font-family:"Kristen ITC";mso-ascii-font-family:
+  "Kristen ITC";mso-latin-font-family:"Kristen ITC";font-style:italic;
+  language:EN;mso-ansi-language:EN'>Small Catechism in 1529</span><span
+  style='font-size:10.5pt;line-height:100%;font-family:"Kristen ITC";
+  mso-default-font-family:"Kristen ITC";mso-ascii-font-family:"Kristen ITC";
+  mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:EN'>.<span
+  style='mso-spacerun:yes'>   </span>He taught Erfurt from 1509-1511.<span
+  style='mso-spacerun:yes'>  </span>He was also a preacher and
+  administrator.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:100%;font-family:
+  "Kristen ITC";mso-default-font-family:"Kristen ITC";mso-ascii-font-family:
+  "Kristen ITC";mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:
+  EN'><span style='mso-tab-count:1'>         </span>Information available at: </span>
+  <a href=encarta.msn.com><span style='font-size:10.5pt;line-height:100%;
+  font-family:"Kristen ITC";mso-default-font-family:"Kristen ITC";mso-ascii-font-family:
+  "Kristen ITC";mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:
+  EN'>encarta.msn.com</span></a><span style='font-size:10.5pt;line-height:100%;
+  font-family:"Kristen ITC";mso-default-font-family:"Kristen ITC";mso-ascii-font-family:
+  "Kristen ITC";mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:
+  EN'><o:p></o:p></span></p>
+  </div>
+  <![if !vml]></td>
+ </tr>
+</table>
+
+</span><![endif]><!--[if gte vml 1]><v:rect id="_x0000_s1046" style='position:absolute;
+ left:434.99pt;top:438.42pt;width:86.3pt;height:99pt;z-index:7'
+ o:preferrelative="t" filled="f" fillcolor="white [7]" stroked="f"
+ strokecolor="black [0]" insetpen="t" o:cliptowrap="t">
+ <v:fill color2="black [0]"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:imagedata src="project_files/image007.wmz" o:title="j0310390"/>
+ <v:shadow color="#ccc [4]"/>
+ <v:path o:extrusionok="f"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+ <![if pub]><b:otyEscherText type="OplPo" oty="1" oh="304">
+  <b:FUserChangedFmt>True</b:FUserChangedFmt>
+  <b:FMoved>True</b:FMoved>
+  <b:Oid>(```````````</b:Oid>
+  <b:OidAssociated>(```````````</b:OidAssociated>
+  <b:Qtf>0</b:Qtf>
+  <b:Ohlinfo>305</b:Ohlinfo>
+  <b:FUseCag>True</b:FUseCag>
+  <b:DxlMax>1096046</b:DxlMax>
+  <b:DylMax>1257300</b:DylMax>
+ </b:otyEscherText>
+ <b:Filename type="OplFileName" oty="102" oh="305">
+  <b:SzFileName>j0310390.wmf</b:SzFileName>
+ </b:Filename>
+ <![endif]>
+</v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:7;left:580px;top:585px;width:115px;height:132px'><img
+width=115 height=132 src="project_files/image008.gif" v:shapes="_x0000_s1046"></span><![endif]><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t136" coordsize="21600,21600" o:spt="136" adj="10800" path="m@7,l@8,m@5,21600l@6,21600e">
+ <v:formulas>
+  <v:f eqn="sum #0 0 10800"/>
+  <v:f eqn="prod #0 2 1"/>
+  <v:f eqn="sum 21600 0 @1"/>
+  <v:f eqn="sum 0 0 @2"/>
+  <v:f eqn="sum 21600 0 @3"/>
+  <v:f eqn="if @0 @3 0"/>
+  <v:f eqn="if @0 21600 @1"/>
+  <v:f eqn="if @0 0 @2"/>
+  <v:f eqn="if @0 @4 21600"/>
+  <v:f eqn="mid @5 @6"/>
+  <v:f eqn="mid @8 @5"/>
+  <v:f eqn="mid @7 @8"/>
+  <v:f eqn="mid @6 @7"/>
+  <v:f eqn="sum @6 0 @5"/>
+ </v:formulas>
+ <v:path textpathok="t" o:connecttype="custom" o:connectlocs="@9,0;@10,10800;@11,21600;@12,10800"
+  o:connectangles="270,180,90,0"/>
+ <v:textpath on="t" fitshape="t"/>
+ <v:handles>
+  <v:h position="#0,bottomRight" xrange="6629,14971"/>
+ </v:handles>
+ <o:lock v:ext="edit" text="t" shapetype="t"/>
+</v:shapetype><v:shape id="_x0000_s1052" type="#_x0000_t136" alt="Contributions"
+ style='position:absolute;left:95.19pt;top:459pt;width:154.5pt;height:33.75pt;
+ z-index:8' fillcolor="#06c" strokecolor="#9cf" strokeweight="1.5pt"
+ o:cliptowrap="t">
+ <v:fill color2="fill darken(118)" rotate="t" focusposition=".5,.5"
+  focussize="" method="linear sigma" focus="100%" type="gradientRadial"/>
+ <v:stroke>
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:shadow on="t" color="#900"/>
+ <v:textpath style='font-family:"Impact";font-size:28pt;v-text-kern:t' trim="t"
+  fitpath="t" string="Contributions"/>
+ <![if pub]><b:otyEscher type="OplPo" oty="32" oh="306">
+  <b:FUserChangedFmt>True</b:FUserChangedFmt>
+  <b:FMoved>True</b:FMoved>
+  <b:Txwp>3</b:Txwp>
+  <b:Oid>(```````````</b:Oid>
+  <b:OidAssociated>(```````````</b:OidAssociated>
+ </b:otyEscher>
+ <![endif]>
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:8;left:125px;top:611px;width:212px;height:50px'><img
+width=212 height=50 src="project_files/image009.gif" alt=Contributions v:shapes="_x0000_s1052"></span><![endif]><!--[if gte vml 1]><v:rect
+ id="_x0000_s1053" style='position:absolute;left:478.8pt;top:155.28pt;width:54pt;
+ height:37.12pt;z-index:9' o:preferrelative="t" filled="f" fillcolor="white [7]"
+ stroked="f" strokecolor="black [0]" insetpen="t" o:cliptowrap="t">
+ <v:fill color2="black [0]"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:imagedata src="project_files/image010.wmz" o:title="j0212615"/>
+ <v:shadow color="#ccc [4]"/>
+ <v:path o:extrusionok="f"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+ <![if pub]><b:otyEscherText type="OplPo" oty="1" oh="307">
+  <b:FUserChangedFmt>True</b:FUserChangedFmt>
+  <b:FMoved>True</b:FMoved>
+  <b:Oid>(```````````</b:Oid>
+  <b:OidAssociated>(```````````</b:OidAssociated>
+  <b:Qtf>0</b:Qtf>
+  <b:Ohlinfo>308</b:Ohlinfo>
+  <b:FUseCag>True</b:FUseCag>
+  <b:DxlMax>685800</b:DxlMax>
+  <b:DylMax>471445</b:DylMax>
+ </b:otyEscherText>
+ <b:Filename type="OplFileName" oty="102" oh="308">
+  <b:SzFileName>j0300900.wmf</b:SzFileName>
+ </b:Filename>
+ <![endif]>
+</v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:9;left:638px;top:207px;width:72px;height:49px'><img width=72
+height=49 src="project_files/image011.gif" v:shapes="_x0000_s1053"></span><![endif]><!--[if gte vml 1]><v:shape
+ id="_x0000_s1059" type="#_x0000_t202" style='position:absolute;left:90pt;
+ top:314.71pt;width:6in;height:126pt;z-index:10' filled="f" fillcolor="white [7]"
+ stroked="f" strokecolor="black [0]" insetpen="t" o:cliptowrap="t">
+ <v:fill color2="black [0]"/>
+ <v:stroke color2="white [7]">
+  <o:left v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:top v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:right v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:bottom v:ext="view" color="black [0]" color2="white [7]"/>
+  <o:column v:ext="view" color="black [0]" color2="white [7]"/>
+ </v:stroke>
+ <v:shadow color="#ccc [4]"/>
+ <v:textbox style='mso-column-margin:5.76pt' inset="2.88pt,2.88pt,2.88pt,2.88pt"/>
+ <![if pub]><b:otyEscherText type="OplPo" oty="1" oh="293">
+  <b:FUserChangedFmt>True</b:FUserChangedFmt>
+  <b:FMoved>True</b:FMoved>
+  <b:Txwp>3</b:Txwp>
+  <b:Oid>(```````````</b:Oid>
+  <b:OidAssociated>(```````````</b:OidAssociated>
+  <b:Qsid>11</b:Qsid>
+  <b:DxlMax>5486400</b:DxlMax>
+  <b:DylMax>1600200</b:DylMax>
+ </b:otyEscherText>
+ <![endif]>
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:10;left:120px;top:420px;width:576px;height:168px'>
+
+<table cellpadding=0 cellspacing=0>
+ <tr>
+  <td width=576 height=168 style='vertical-align:top'><![endif]>
+  <div v:shape="_x0000_s1059" style='padding:2.88pt 2.88pt 2.88pt 2.88pt'
+  class=shape>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:100%;font-family:
+  "Kristen ITC";mso-default-font-family:"Kristen ITC";mso-ascii-font-family:
+  "Kristen ITC";mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:
+  EN'>degree in 1502 and a masters degree in 1505.<span
+  style='mso-spacerun:yes'>  </span>In the summer of 1505 he left his studies
+  and entered a monastery in Erfurt.<span style='mso-spacerun:yes'>   </span>He
+  was ordained in 1507.<span style='mso-spacerun:yes'>  </span>After being
+  ordained he began to study theology in order to become a professor at one of
+  the German universities.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:100%;font-family:
+  "Kristen ITC";mso-default-font-family:"Kristen ITC";mso-ascii-font-family:
+  "Kristen ITC";mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:
+  EN'><span style='mso-tab-count:1'>         </span>In 1525 he married a former
+  nun, Katherina Von Bora and they raised six children. His health began to
+  deteriorate and he suffered from depression.<span style='mso-spacerun:yes'> 
+  </span>He died on February 18,1546 in Eisleben of heart failure. <o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:100%;font-family:
+  "Kristen ITC";mso-default-font-family:"Kristen ITC";mso-ascii-font-family:
+  "Kristen ITC";mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:
+  EN'><span style='mso-tab-count:5'>                                    </span>Information
+  available at: </span>
+  <a href=encarta.msn.com><span style='font-size:10.5pt;line-height:100%;
+  font-family:"Kristen ITC";mso-default-font-family:"Kristen ITC";mso-ascii-font-family:
+  "Kristen ITC";mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:
+  EN'>encarta.msn.com</span></a><span style='font-size:10.5pt;line-height:100%;
+  font-family:"Kristen ITC";mso-default-font-family:"Kristen ITC";mso-ascii-font-family:
+  "Kristen ITC";mso-latin-font-family:"Kristen ITC";language:EN;mso-ansi-language:
+  EN'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='language:EN;mso-ansi-language:EN'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+  </div>
+  <![if !vml]></td>
+ </tr>
+</table>
+
+</span><![endif]>
+</div>
+
+</body>
+
+</html>

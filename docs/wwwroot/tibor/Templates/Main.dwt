@@ -1,0 +1,53 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Untitled Document</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<div align="center"></div>
+<h4 align="left">&nbsp;</h4>
+<h4 align="left">&nbsp;</h4>
+<table width="100%" border="1" cellspacing="2" cellpadding="5">
+  <tr>
+    <td> 
+      <h4 align="center"><b><font face="Geneva, Arial, Helvetica, san-serif" color="Red">Welcome 
+        </font></b><font color="Red" face="Geneva, Arial, Helvetica, san-serif"><b><i>to 
+        Web Site Design II</i></b></font> </h4>
+      <table width="100%" border="1" cellspacing="2" cellpadding="5">
+        <tr>
+          <td width="20%"> 
+            <h4 align="left"><a href="../Monday.htm/index.htm">Home</a></h4>
+            <h4 align="left"><a href="../Monday.htm/News/index.htm">News</a></h4>
+            <h4 align="left"><a href="../Monday.htm/Library/index.htm">Library</a></h4>
+            <h4 align="left"><a href="../Monday.htm/Lunch/index.htm">Lunch</a></h4>
+            <h4 align="left"><a href="../Monday.htm/Sports/index.htm">Sports</a></h4>
+          </td>
+          <td width="80%"><!-- #BeginEditable "Edit" -->{Edit}<!-- #EndEditable --></td>
+        </tr>
+      </table>
+      <h4 align="left">&nbsp;</h4>
+      <h4 align="left">&nbsp;</h4>
+      <h4 align="center">&nbsp;</h4>
+      <h4 align="center">Thank you for visiting our school web site.</h4>
+      <h4 align="center">If you have any concerns or comments please contact: 
+        harve.tibor@sendit.nodak.edu</h4>
+      <h4 align="left">&nbsp;</h4>
+</td>
+  </tr>
+</table>
+<h4 align="left">&nbsp;</h4>
+<h4 align="left">&nbsp;</h4>
+<h4 align="left">&nbsp;</h4>
+<h4 align="left">&nbsp;</h4>
+<h4 align="left">&nbsp;</h4>
+<h4 align="center">&nbsp;</h4>
+<h4 align="center">&nbsp;</h4>
+<h4 align="left">&nbsp;</h4>
+<h4 align="left">&nbsp;</h4>
+<h4 align="left">&nbsp;</h4>
+<h4 align="left">&nbsp;</h4>
+</body>
+</html>

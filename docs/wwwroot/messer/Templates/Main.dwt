@@ -1,0 +1,44 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Web Site Design II</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<div align="center"> 
+  <table width="100%" border="1" cellspacing="2" cellpadding="5">
+    <tr>
+      <td> 
+        <p align="center"><font color="navy"><b><font size="6">Welcome to Web 
+          Site Design II</font></b></font> </p>
+        <table width="100%" border="1" cellspacing="2" cellpadding="5">
+          <tr>
+            <td width="24%"> 
+              <p align="left"><a href="../Monday/index.htm">Home</a></p>
+              <p align="left"><a href="../Monday/News/Index.htm">News</a></p>
+              <p align="left"><a href="../Monday/Library/Index.htm">Library</a></p>
+              <p align="left"><a href="../Monday/Lunch/Index.htm">Lunch</a></p>
+              <p align="left"><a href="../Monday/Sports/Index.htm">Sports</a></p>
+        </td>
+            <td width="76%"><!-- #BeginEditable "Edit" -->{Edit}<!-- #EndEditable --></td>
+          </tr>
+        </table>
+        <p align="left">&nbsp;</p>
+        <p align="left">&nbsp;</p>
+        <p align="center">Thank you for visiting our school web site.</p>
+        <p align="center">If you have any concerns or comments please contact: 
+          Laura.Messer@sendit.nodak.edu</p>
+        <p align="center">&nbsp;</p>
+        <p>&nbsp; </p>
+      </td>
+    </tr>
+  </table>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp;</p>
+  <p align="center">&nbsp;</p>
+  </div>
+</body>
+</html>
